@@ -1,5 +1,5 @@
 <?php
-
+//for pull-request
 interface CanEat
 {
     public function eat();
